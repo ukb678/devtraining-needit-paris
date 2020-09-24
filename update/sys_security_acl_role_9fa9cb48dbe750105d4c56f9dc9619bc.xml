@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>udaykumar.billur@snc</sys_created_by>
+        <sys_created_on>2020-09-24 21:30:30</sys_created_on>
+        <sys_id>9fa9cb48dbe750105d4c56f9dc9619bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit.x_58872_needit.needit_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_security_acl display_value="x_58872_needit_needit">53a9cb48dbe750105d4c56f9dc9619b9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9fa9cb48dbe750105d4c56f9dc9619bc</sys_update_name>
+        <sys_updated_by>udaykumar.billur@snc</sys_updated_by>
+        <sys_updated_on>2020-09-24 21:30:30</sys_updated_on>
+        <sys_user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">0fa9c748dbe750105d4c56f9dc9619ca</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
